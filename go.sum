@@ -1,0 +1,16 @@
+github.com/tom-blog-app/blog-proto v0.0.0-20240108183952-7f146e1f6be0 h1:S8nkRs3nKKVLf5ftnR/te0Bi7gUbInwLa2ge53clZ1o=
+github.com/tom-blog-app/blog-proto v0.0.0-20240108183952-7f146e1f6be0/go.mod h1:jCCgYLhE+pY4ECA/NDA0lbiKVN7VXEZVx55ArcmKp1U=
+github.com/tom-blog-app/blog-proto v0.0.0-20240110153720-74c046ae6401 h1:hyDK2zMF3QTDToa6uLtIgidK80JRAin7uVlFlV+b4iU=
+github.com/tom-blog-app/blog-proto v0.0.0-20240110153720-74c046ae6401/go.mod h1:jCCgYLhE+pY4ECA/NDA0lbiKVN7VXEZVx55ArcmKp1U=
+github.com/tom-blog-app/blog-proto v1.0.1 h1:72eGlomRWBhKOl2f0ONRG5Zzxg2EHDZNVUP0MR7g/iQ=
+github.com/tom-blog-app/blog-proto v1.0.1/go.mod h1:jCCgYLhE+pY4ECA/NDA0lbiKVN7VXEZVx55ArcmKp1U=
+github.com/tom-blog-app/blog-proto v1.0.2 h1:1jx1dgokmjXJSk31kvs1VypiRsJNQ9k2XGTon6Kowv0=
+github.com/tom-blog-app/blog-proto v1.0.2/go.mod h1:jCCgYLhE+pY4ECA/NDA0lbiKVN7VXEZVx55ArcmKp1U=
+github.com/tom-blog-app/blog-proto v1.0.3 h1:qUmXjcmTD+dtDOGrMyQrcfcpAgTeYSLg1pgwx0ob6Kg=
+github.com/tom-blog-app/blog-proto v1.0.3/go.mod h1:jCCgYLhE+pY4ECA/NDA0lbiKVN7VXEZVx55ArcmKp1U=
+github.com/tom-blog-app/blog-proto v1.0.10 h1:XwTvmIyH2Oxkft4UznryPUjtz6l6mGMiO5W+J9LzUyA=
+github.com/tom-blog-app/blog-proto v1.0.10/go.mod h1:jCCgYLhE+pY4ECA/NDA0lbiKVN7VXEZVx55ArcmKp1U=
+github.com/tom-blog-app/blog-utils v1.0.0 h1:ujHpnGa3OMUcLL5s3MMpVh+KgbEZVgDbQCyw0PWCICg=
+github.com/tom-blog-app/blog-utils v1.0.0/go.mod h1:Ly1JhJlRVzcYOTVOBDIwvRT9hRGHXyBKvFiK4Z+FA0I=
+github.com/tom-blog-app/blog-utils v1.0.1 h1:J/6+Gy8kInV0b3FJGzTz4HaSHt4xGmkV/EqtmuJK9os=
+github.com/tom-blog-app/blog-utils v1.0.1/go.mod h1:Ly1JhJlRVzcYOTVOBDIwvRT9hRGHXyBKvFiK4Z+FA0I=
